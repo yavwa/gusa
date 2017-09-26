@@ -1,0 +1,2 @@
+[26-Sep-2017 17:23:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'gusaco_1'@'localhost' (using password: NO) in /home/gusaco/public_html/installation/classes/OssnInstall.php on line 322
+[26-Sep-2017 17:23:26 UTC] PHP Warning:  Creating default object from empty value in /home/gusaco/public_html/installation/classes/OssnInstall.php on line 324
